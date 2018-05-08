@@ -1,8 +1,2 @@
-Jajajjajaa
-Conflictos
-
-
-!!!!!
-
-
-    Resuelvelo.
+'use strict';
+const prueba='prueba';
